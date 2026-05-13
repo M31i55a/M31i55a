@@ -1,4 +1,4 @@
-<p align="center" style="border-radius: 15px>
+<p align="center" style="border-radius: 15px">
   <img src="images/ChatGPT Image May 12, 2026, 07_16_16 PM.png" alt="Banner" width="100%" style="border-radius: 15px;" />
 </p>
 
