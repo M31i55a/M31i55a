@@ -19,7 +19,7 @@
 - **[windowsMate-Thuki](https://github.com/M31i55a/windowsMate-Thuki)** - Your Windows Assistant
 - **[Professor_ia](https://github.com/M31i55a/Professor_ia)** - A simple app to help students to study by explaining lessons to them, and customizable!
 - **[AI_recrutement_agent](https://github.com/M31i55a/AI_recrutement_agent)** - Resume analyzer, profile enhancer and more ...
-- **[document-summarizer-for-students](https://github.com/M31i55a/document-summarizer-for-students)** - This is a simple summarizer using Python, Langcain, and Ollama
+- **[roomily](https://github.com/M31i55a/roomily)** - This is a simple summarizer using Python, Langcain, and Ollama
 
 ## 3D Graphics & Visual Experiments
 
