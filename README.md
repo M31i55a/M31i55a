@@ -19,7 +19,7 @@
 - **[windowsMate-Thuki](https://github.com/M31i55a/windowsMate-Thuki)** - Your Windows Assistant
 - **[Professor_ia](https://github.com/M31i55a/Professor_ia)** - A simple app to help students to study by explaining lessons to them, and customizable!
 - **[AI_recrutement_agent](https://github.com/M31i55a/AI_recrutement_agent)** - Resume analyzer, profile enhancer and more ...
-- **[roomily](https://github.com/M31i55a/roomily)** - This is a simple summarizer using Python, Langcain, and Ollama
+- **[roomily](https://github.com/M31i55a/roomily)** - AI-powered architectural visualization app that transforms 2D floor plans into photorealistic 3D renders
 
 ## 3D Graphics & Visual Experiments
 
